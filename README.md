@@ -6,7 +6,7 @@ This project implements real-time face and smile detection using OpenCV. The pro
 ## Features
 - Detects faces using OpenCV's Haar cascade classifier.
 - Detects smiles within the detected faces.
-- Matches the detected face with another image when `q` is pressed once.
+- Matches the detected face features with another image when `q` is pressed once.
 - Pressing `q` twice closes the program.
 - Displays real-time detection using a webcam.
 
